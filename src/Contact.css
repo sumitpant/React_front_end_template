@@ -1,0 +1,17 @@
+.msg{
+    color:white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 370%;
+}
+
+h3 {color:white}
+h4{color:white;
+    margin-top: 20px;
+}
+
+.email{
+    margin-top: 40vh;
+    margin-bottom: 20px;
+
+}

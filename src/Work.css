@@ -1,0 +1,40 @@
+.info{
+    height:70vh;
+    width:100vh;
+    background-color: rgb(61, 56, 82);
+    border-radius: 20px;
+    opacity: 0.2;
+}
+.work{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Text{
+    color: white;
+  align-content: flex-end;
+    
+}
+.featured{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    font-size: 500%;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.info1{
+    height:60vh;
+    width:40vh;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+h3{
+    margin-top: 20px;
+    color:black;
+    text-align: center;
+}

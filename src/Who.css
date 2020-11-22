@@ -1,0 +1,21 @@
+h4{
+    color:white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.information{
+    margin-top: 45vh;
+    
+}
+
+.header{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 500%;
+
+}
+.who{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 0px;
+}
